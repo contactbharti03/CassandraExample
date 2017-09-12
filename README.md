@@ -1,4 +1,4 @@
-Prerequisites:
+## Prerequisites
 
 JDK 1.8
 Scala 2.11
@@ -9,7 +9,7 @@ Install and launch a Cassandra cluster.
 
 Configure a new Scala project with the Apache Spark and its dependencies. Check the build.sbt
 
-Building
+## Building
 
 To build an assembly jar:
 
